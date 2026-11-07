@@ -6,3 +6,5 @@ Omnibus
 Platos 
 Dinosaurio
 Aviones
+Cinturon 
+Teclado
