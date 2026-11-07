@@ -14,3 +14,5 @@ def show_status(juego):
     print(f"Correctas: {', '.join(juego.correct_letters())}")
     print(f"Incorrectas: {', '.join(juego.wrong_letters())}")
     print(f"Intentos restantes: {juego.max_errors - juego.errors}")
+
+    
